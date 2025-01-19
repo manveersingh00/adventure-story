@@ -7,3 +7,5 @@ As you circle the temple, you come across an overgrown path partially hidden by 
 Nearby, your eyes are drawn to an ancient inscription etched into a moss-covered wall. The inscription is weathered but still visible, its characters a mixture of symbols and runes that hint at stories of old. The wall, with its carvings, stands as a testament to the once-great civilization that thrived here, now left in ruins, whispering its tales only to those who choose to listen closely.
 
 The rustling of leaves and distant chirping of unseen creatures creates an eerie symphony, blending with the soft whispers of the wind as if the forest itself holds memories of the past, beckoning you to uncover its mysteries.
+
+[Enter the temple](enter-temple.md)
