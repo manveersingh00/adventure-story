@@ -5,3 +5,5 @@ You are an adventurer who has just arrived at the entrance of a long-forgotten t
 What will you do next?
 
 - [Explore the side chamber](side-chamber.md)
+- [Inspect the ancient inscription](ancient-inscription.md)
+
