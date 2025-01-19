@@ -6,3 +6,5 @@ You spot several interesting clues:
 - A small piece of parchment half-buried in the dirt, marked with strange symbols.
 - Footprints leading towards the dense forest on the eastern side.
 - A peculiar arrangement of stones that seems too deliberate to be natural.
+
+- [Enter the temple](enter-temple.md)
