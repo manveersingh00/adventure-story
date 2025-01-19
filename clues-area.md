@@ -7,4 +7,4 @@ You spot several interesting clues:
 - Footprints leading towards the dense forest on the eastern side.
 - A peculiar arrangement of stones that seems too deliberate to be natural.
 
-- [Enter the temple](enter-temple.md)
+[Enter the temple](enter-temple.md)
